@@ -8,6 +8,15 @@
 
 The following review was not completed on the entire repo. Review was focuses specifically on PR's created to fix issues uncovered in the [Sherlock Audit Report](https://github.com/sherlock-audit/2023-07-blueberry-judging). These have been reviewed to resolve these specific issues and to prevent introducing new ones in the process. 
 
+# Timeline
+
+| Date(s) | Status |
+| ------ | ---------------------------- |
+| 10/16/23 - 10/18/23: | Initial Review |
+| 10/20/23 - 11/08/23: | Fix Review Period #1 |
+| 1/8/24 - 1/13/24: | Fix Review Period #2 |
+| 2/5/24: | Final Review |
+
 # Scope
 
 PR's created to fix issue uncovered in the [Sherlock Audit Report](https://github.com/sherlock-audit/2023-07-blueberry-judging):
